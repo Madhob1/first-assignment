@@ -24,7 +24,7 @@
 }
 
 .hero_contant {
-    height: 600px;
+    height: 700px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -32,7 +32,45 @@
 }
 
 .he_text {
-    background-color: antiquewhite;
-    align-items: center;
-    justify-content: space-around;
+    max-width:50%;
+    color: #070707;
+    padding:10px;
+
+
+}
+.hero_hed {
+    font-size:55px;
+    font-weight:800;
+    margin-bottom: 30px;
+  
+}
+
+.hero_dis{
+    font-size:16px;
+    margin-bottom: 25px;
+
+}
+.main_button{
+    background-color:#E55473;
+    padding: 13px 35px;
+    border-radius:5px;
+    border:0;
+}
+
+.main_button:hover{
+    background-color:#fc3058;
+}
+.main_button a{
+    font-size: 16px;
+    text-decoration: none;
+    color:white;
+
+}
+
+.he-image{
+    height: 700px;
+    width: 40%;
+    align-items: end;
+    display: flex;
+   
 }
