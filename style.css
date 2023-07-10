@@ -74,3 +74,18 @@
     display: flex;
    
 }
+
+/* hero end */
+
+/* flowers start */
+.flowers{
+    margin-top: 100px;
+}
+
+.fl_contant{
+
+    width: 500px;
+    margin: auto;
+    text-align: center;
+
+}
