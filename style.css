@@ -151,13 +151,39 @@
 
 }
 
+.button_link {
+     width: 200px;
+     position: absolute;
+     text-align: center;
+     margin-left:80px;
+     margin-bottom: -40px;
+     font-size: 18px;
+     font-weight: bold;
+     text-decoration: underline;
+     cursor: pointer;
+    
+}
+
+.button_link2 {
+    width: 200px;
+    position: absolute;
+    text-align: center;
+    margin-left:80px;
+    margin-top: 520px;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: underline;
+    cursor: pointer;
+   
+}
+
 /* flowers end */
 
 /* support section start */
 
 .support{
     background-color:#F4F4F4;
-    margin-top: 70px;
+    margin-top: 120px;
     margin-bottom: 70px;
     border-radius: 5px;
     display: flex;
