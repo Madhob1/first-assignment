@@ -84,9 +84,10 @@
 
 .fl_contant{
 
-    width: 500px;
+    width: 600px;
     margin: auto;
     text-align: center;
+    padding-bottom: 10px;
 
 }
 
@@ -198,3 +199,36 @@
 }
 
 /* hot deal end  */
+
+/* instagram start */
+.instagram{
+        margin-top: 40px !important;
+        margin-bottom: 100px !important;
+
+
+}
+.ins_contant{
+    margin-top: 50px !important;
+}
+.ins_images{
+text-align: center;
+display: flex;
+justify-content:space-around;    
+
+}
+
+.ins_img{
+    max-width: 280px;
+    padding: 10px;
+
+
+}
+
+/* instagram end */
+
+/* Subscribe section start  */
+
+
+
+
+/* Subscribe section end  */
