@@ -253,7 +253,32 @@ justify-content:space-around;
 .sub_button{
     color: white;
     font-size: 16px;
+    cursor: pointer;
 }
 
 
 /* Subscribe section end  */
+
+/* footer start  */
+#foorer_ass{
+    background-color: black;
+    padding-top: 90px;
+    padding-bottom: 90px;
+    margin-top: 100px;
+}
+
+.fo_hed {
+    color: white;
+}
+
+.fo_dis {
+    color: white;
+}
+
+.copy_right{
+        color: #b4b4b4;
+        font-size: 12px;
+
+}
+/* footer end  */
+
